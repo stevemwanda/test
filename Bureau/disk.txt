@@ -1,0 +1,4 @@
+Disque /dev/sda6 : 11,18 GiB, 11998855168 octets, 23435264 secteurs
+Unités : secteur de 1 × 512 = 512 octets
+Taille de secteur (logique / physique) : 512 octets / 4096 octets
+taille d'E/S (minimale / optimale) : 4096 octets / 4096 octets
